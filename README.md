@@ -2,8 +2,8 @@
 freeCodeCamp Celestial Bodies Database Project
 
 
-
-    Link to fCC Project Page
+[
+    Link to fCC Project Page](https://www.freecodecamp.org/learn/relational-databases-v9/lab-celestial-bodies-database/lab-celestial-bodies-database)
 
 ✔️ Instructions:Complete the tasks below
     
